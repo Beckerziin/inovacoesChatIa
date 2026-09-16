@@ -78,7 +78,7 @@ No arquivo `backend/.env` defina:
 Funciona com qualquer provedor compatível com o padrão OpenAI. Exemplos:
 
 - **OpenAI** — `https://api.openai.com/v1` · modelo `gpt-4o-mini`
-- **Groq** (gratuito) — `https://api.groq.com/openai/v1` · modelo `llama-3.1-8b-instant`
+- **Groq** (gratuito) — `https://api.groq.com/openai/v1` · modelo `openai/gpt-oss-20b` (veja os modelos disponíveis em `console.groq.com`)
 - **OpenRouter** — `https://openrouter.ai/api/v1`
 
 ## 📡 Endpoint da API
